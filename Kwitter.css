@@ -1,0 +1,11 @@
+body
+{
+	background-image: url("school.jpg");
+    background-size: cover;
+}
+
+h1
+{
+    font-family: monospace;
+}
+
